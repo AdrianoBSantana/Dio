@@ -4,11 +4,11 @@
 ![Capturar](https://user-images.githubusercontent.com/101372228/168834839-b96420c9-b1eb-4e2d-807c-31baea1464ad.PNG)
 
 #Conteúdo
--Conhecendo o React Native
+*Conhecendo o React Native
   -O que é React-native?
   -O que é cross-platform?
   -Origem do RN
--Documentação:
+*Documentação:
   -Componentes
   -API
   -Comunidade (Blog)
